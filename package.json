@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Collection of eslint rule demo",
   "scripts": {
-    "lint": "eslint '*.js' --ignore-pattern node_modules/"
+    "lint": "eslint 'rules/*.js' --ignore-pattern node_modules/"
   },
   "author": "Aimee Knight",
   "license": "ISC",

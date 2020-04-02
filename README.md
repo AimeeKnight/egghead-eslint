@@ -5,7 +5,7 @@
 
 ## Cyclomatic Complexity
 
-Run `node cyclomatic-complexity.js`
+Run `node rules/complexity-complexity.js`
 
 ## Tooling
 
