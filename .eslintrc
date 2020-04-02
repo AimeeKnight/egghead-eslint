@@ -3,6 +3,7 @@
     "es6": true
   },
   "rules": {
-    "complexity": ["error", 2]
+    "complexity": ["error", 2],
+    "max-params": ["error", 3]
   }
 }
