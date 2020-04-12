@@ -2,8 +2,10 @@
   "env": {
     "es6": true
   },
+  "plugins": ["sonarjs"],
   "rules": {
     "complexity": ["error", 2],
-    "max-params": ["error", 3]
+    "max-params": ["error", 3],
+    "sonarjs/prefer-single-boolean-return": "error"
   }
 }
